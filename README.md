@@ -4,10 +4,7 @@ Base + Farcaster mini app scaffold (technical base from the numbered projects st
 
 ## Stack
 
-- Next.js 16 (App Router) + React 19 + Tailwind CSS v4
-- wagmi + viem on Base
-- Farcaster mini app SDK
-- Foundry (contracts scaffold)
+
 
 ## Setup
 
