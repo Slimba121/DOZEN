@@ -10,7 +10,7 @@ Base + Farcaster mini app scaffold (technical base from the numbered projects st
 - Foundry (contracts scaffold)
 
 ## Setup
-
+h
 ```bash
 npm install
 git submodule update --init --recursive
