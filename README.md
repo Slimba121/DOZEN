@@ -1,4 +1,4 @@
-# DOZEN
+# DOZENg
 
 Base + Farcaster mini app scaffold (technical base from the numbered projects stack).
 
